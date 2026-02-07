@@ -3,7 +3,11 @@
 This repository contains the dataset and code for our paper titled [On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good](https://aclanthology.org/2024.findings-naacl.290.pdf)
 
 ## Code
-The folder PAANTH contains the code for the proposed PAANTH architecture.
+The folder Code contains the code for the proposed PAANTH architecture.
+
+## Data
+
+The folder Data contains a sample of the proposed dataset.
 
 ## Dataset Request Access
 
